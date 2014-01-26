@@ -1,6 +1,6 @@
 {
   "name": "tart-adapter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adapter turning synchronous functions into asynchronous Tart actors",
   "scripts": {
     "inject-examples": "node scripts/injectExamples.js",
