@@ -30,8 +30,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 */
 "use strict";
 
-var tart = require('tart');
-
 /*
   * `obj`: _Object_ _(Default: {})_ Object to bind `this` to when invoking `fn`.
   * `fn`: _Function_ Function to invoke on `obj`.
